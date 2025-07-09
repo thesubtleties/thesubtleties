@@ -9,6 +9,7 @@ Full-stack developer passionate about building elegant solutions to complex prob
 - Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
 - DS&A Practice: Working through Grind 75 for technical interview preparation
 - TypeScript Mastery: Building upcoming projects with goal of 100% type safety
+- Atria: Feature complete frontend, complete CSS theming, before adding background services and QoL items (E2EE for DM, Zoom API integration, chat moderation)
 
 ## Upcoming Learning Goals
 
