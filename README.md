@@ -5,8 +5,8 @@ Full-stack developer passionate about building elegant solutions to complex prob
 ## Currently Focusing On
 
 - Kubernetes Migration: Actively transitioning Docker Compose projects to K3s orchestration for better scalability
+- DevOps: CI/CD pipelines, monitoring, observability
 - Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
-- Advanced React Patterns: Deep diving into performance optimization, custom hooks, and advanced state management
 - DS&A Practice: Working through Grind 75 for technical interview preparation
 - TypeScript Mastery: Building upcoming projects with goal of 100% type safety
 
@@ -14,9 +14,9 @@ Full-stack developer passionate about building elegant solutions to complex prob
 
 - AWS/GCP Cloud Services: Expanding beyond self-hosted infrastructure to cloud-native solutions
 - GraphQL & Apollo: Building more efficient APIs with better client-server communication
+- Advanced React Patterns: Deep diving into performance optimization, custom hooks, and advanced state management
 - Performance Engineering: Web vitals, bundle optimization, caching strategies
 - Testing Strategies: TDD, integration testing, E2E with Cypress/Playwright
-- DevOps Excellence: CI/CD pipelines, monitoring, observability
 - Open Source Contributions: Finding and consistently contributing to a meaningful open source project to give back to the community
 
 ## Tech Stack
