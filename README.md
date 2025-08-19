@@ -4,12 +4,13 @@ Full-stack developer passionate about building elegant solutions to complex prob
 
 ## Currently Focusing On
 
-- Kubernetes Migration: Actively transitioning Docker Compose projects to K3s orchestration for better scalability
+- Atria: CSS architecture refactor - implementing design token system with global variables and completing responsive design across all components with special focus on popular browser and platform combination UX
+- Atria: Prepare for scalability via query efficiency, connection pooling, and Redis implementation
+- DS&A Practice: Working through Grind 75 for technical interview preparation
 - DevOps: CI/CD pipelines, monitoring, observability
 - Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
-- DS&A Practice: Working through Grind 75 for technical interview preparation
 - TypeScript Mastery: Building upcoming projects with goal of 100% type safety
-- Atria: Feature complete frontend, complete CSS theming, before adding background services and QoL items (E2EE for DM, Zoom API integration, chat moderation)
+
 
 ## Upcoming Learning Goals
 
