@@ -2,18 +2,24 @@
 
 Full-stack developer passionate about building elegant solutions to complex problems. I specialize in modern web technologies with a focus on creating scalable, user-centric applications.
 
+## Long Term Project: Atria
+
+A real event platform built by someone who actually ran events. After years of fighting with bloated event software that charged per feature and held data hostage, I built what I wished existed - a platform that respects both organizers and their communities. Self-host it and create your own branded event ecosystem (perfect for streamers, companies, or anyone wanting their own space), or use the cloud version to tap into cross-organization networking. It's completely open source because I believe nonprofits shouldn't have to choose between good tools and their budget, and organizations shouldn't need a vendor's permission to access their own data. Whether you're running a 10-person meetup or a thousand-person conference, Atria adapts to what you actually need - not what some pricing tier dictates. No feature bloat, no vendor lock-in, no surprises. Just a solid platform that puts your event first and gives you the freedom to run it your way. 
+
+[![Live Demo](https://img.shields.io/badge/Demo-atria.gg-8b5cf6)](https://atria.gg)
+
+[![GitHub](https://img.shields.io/badge/Source-GitHub-black)](https://github.com/thesubtleties/atria)
+
 ## Currently Focusing On
 
-- Atria: CSS architecture refactor - implementing design token system with global variables and completing responsive design across all components with special focus on popular browser and platform combination UX
-- Atria: Prepare for scalability via query efficiency, connection pooling, and Redis implementation
 - DS&A Practice: Working through Grind 75 for technical interview preparation
-- DevOps: CI/CD pipelines, monitoring, observability
-- Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
 - TypeScript Mastery: Building upcoming projects with goal of 100% type safety
-
+- Atria: Prepare for scalability via query efficiency, connection pooling, and Redis implementation
+- Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
 
 ## Upcoming Learning Goals
 
+- DevOps: CI/CD pipelines: Automated testing
 - AWS/GCP Cloud Services: Expanding beyond self-hosted infrastructure to cloud-native solutions
 - GraphQL & Apollo: Building more efficient APIs with better client-server communication
 - Advanced React Patterns: Deep diving into performance optimization, custom hooks, and advanced state management
@@ -65,10 +71,11 @@ Full-stack developer passionate about building elegant solutions to complex prob
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/stevenglab/)
-- 📧 [Email](mailto:steven@sbtl.dev)
-- 🌐 [Portfolio](https://sbtl.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenglab/)
 
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=no&logoColor=white)](mailto:steven@sbtl.dev)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=dot&logoColor=1e3a8a)](https://sbtl.dev)
 ---
 
 "The purpose of architecture is to defer decisions, not to make them." — Robert C. Martin
