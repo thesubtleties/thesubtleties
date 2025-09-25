@@ -4,7 +4,7 @@ Full-stack developer passionate about building elegant solutions to complex prob
 
 ## Long Term Project: Atria
 
-A real event platform built by someone who actually ran events. After years of fighting with bloated event software that charged per feature and held data hostage, I built what I wished existed - a platform that respects both organizers and their communities. Self-host it and create your own branded event ecosystem (perfect for streamers, companies, or anyone wanting their own space), or use the cloud version to tap into cross-organization networking. It's completely open source because I believe nonprofits shouldn't have to choose between good tools and their budget, and organizations shouldn't need a vendor's permission to access their own data. Whether you're running a 10-person meetup or a thousand-person conference, Atria adapts to what you actually need - not what some pricing tier dictates. No feature bloat, no vendor lock-in, no surprises. Just a solid platform that puts your event first and gives you the freedom to run it your way. 
+A real event platform built by someone who actually ran events. After years of fighting with bloated event software that charged per feature and held data hostage, I built what I wished existed - a platform that respects both organizers and their communities. Self-host it and create your own branded event ecosystem (perfect for streamers, companies, or anyone wanting their own space), or use the cloud version to tap into cross-organization networking. It's completely open source because I believe nonprofits shouldn't have to choose between good tools and their budget, and organizations shouldn't need a vendor's permission to access their own data. Whether you're running a 10-person meetup or a thousand-person conference, Atria adapts to what you actually need - not what some pricing tier dictates. No feature bloat, no vendor lock-in, no surprises. Just a solid platform that puts your event first and gives you the freedom to run it your way.
 
 [![Live Demo](https://img.shields.io/badge/Demo-atria.gg-8b5cf6)](https://atria.gg)
 
@@ -13,19 +13,26 @@ A real event platform built by someone who actually ran events. After years of f
 ## Currently Focusing On
 
 - DS&A Practice: Working through Grind 75 for technical interview preparation
-- TypeScript Mastery: Building upcoming projects with goal of 100% type safety
-- Atria: Prepare for scalability via query efficiency, connection pooling, and Redis implementation
-- Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
+- Atria: Systematic refactoring and ESLint compliance to eliminate code smells and enhance maintainability
 
-## Upcoming Learning Goals
+## Upcoming
 
-- DevOps: CI/CD pipelines: Automated testing
+- DevOps: CI/CD pipelines: Automated testing (Frontend/E2E)
+- Atria: Establishing staging workflow to eliminate production surprises and ensure deployment reliability
+- Atria: Adding Redis cache strategy to reduce database load and improve API response times
 - AWS/GCP Cloud Services: Expanding beyond self-hosted infrastructure to cloud-native solutions
 - GraphQL & Apollo: Building more efficient APIs with better client-server communication
-- Advanced React Patterns: Deep diving into performance optimization, custom hooks, and advanced state management
-- Performance Engineering: Web vitals, bundle optimization, caching strategies
-- Testing Strategies: TDD, integration testing, E2E with Cypress/Playwright
+- Testing Strategies: TDD on future Atria features
 - Open Source Contributions: Finding and consistently contributing to a meaningful open source project to give back to the community
+- Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
+- TypeScript Mastery: Building upcoming projects with goal of 100% type safety
+
+## Recently Completed
+
+- Atria: Prepare for scalability via query efficiency, connection pooling, and Redis implementation
+- DevOps: CI/CD pipelines: Automated testing (Backend)
+- Infrastructure: Multi-node K3s deployment with PostgreSQL HA (CNPG), distributed storage (Longhorn), and
+  automated disaster recovery to Backblaze B2
 
 ## Tech Stack
 
@@ -61,9 +68,17 @@ A real event platform built by someone who actually ran events. After years of f
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-FF5733?style=for-the-badge&logo=minio&logoColor=white)
+
+
+
+
 ![Plausible](https://img.shields.io/badge/Plausible-5850EC?style=for-the-badge&logo=plausibleanalytics&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Infisical](https://img.shields.io/badge/Infisical-EFFF33?style=for-the-badge&logo=infinityfree&logoColor=black)
+
+
+
+
 
 ## GitHub Stats
 
@@ -75,7 +90,17 @@ A real event platform built by someone who actually ran events. After years of f
 
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=no&logoColor=white)](mailto:steven@sbtl.dev)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=dot&logoColor=1e3a8a)](https://sbtl.dev)
----
+
+
+
+
+
+## [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=dot&logoColor=1e3a8a)](https://sbtl.dev)
 
 "The purpose of architecture is to defer decisions, not to make them." — Robert C. Martin
+
+
+
+
+
+
