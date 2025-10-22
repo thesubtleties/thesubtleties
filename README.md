@@ -14,21 +14,21 @@ A real event platform built by someone who actually ran events. After years of f
 
 - DS&A Practice: Working through Grind 75 for technical interview preparation
 - Atria: Systematic refactoring and ESLint compliance to eliminate code smells and enhance maintainability
+- Atria: User facing Docs, Blog/Release Notes, API reference (in preparation for a 0.1.0 release along with a more standardized release schedule)
 
 ## Upcoming
 
 - DevOps: CI/CD pipelines: Automated testing (Frontend/E2E)
-- Atria: Establishing staging workflow to eliminate production surprises and ensure deployment reliability
 - Atria: Adding Redis cache strategy to reduce database load and improve API response times
 - AWS/GCP Cloud Services: Expanding beyond self-hosted infrastructure to cloud-native solutions
 - GraphQL & Apollo: Building more efficient APIs with better client-server communication
 - Testing Strategies: TDD on future Atria features
-- Open Source Contributions: Finding and consistently contributing to a meaningful open source project to give back to the community
 - Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
 - TypeScript Mastery: Building upcoming projects with goal of 100% type safety
 
 ## Recently Completed
 
+- Atria: Kubernetes hosted Dev stack for 1:1 testing before pushing to production
 - Atria: Prepare for scalability via query efficiency, connection pooling, and Redis implementation
 - DevOps: CI/CD pipelines: Automated testing (Backend)
 - Infrastructure: Multi-node K3s deployment with PostgreSQL HA (CNPG), distributed storage (Longhorn), and
