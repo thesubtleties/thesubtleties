@@ -13,8 +13,7 @@ A real event platform built by someone who actually ran events. After years of f
 ## Currently Focusing On
 
 - DS&A Practice: Working through Grind 75 for technical interview preparation
-- Atria: Systematic refactoring and ESLint compliance to eliminate code smells and enhance maintainability
-- Atria: User facing Docs, Blog/Release Notes, API reference (in preparation for a 0.1.0 release along with a more standardized release schedule)
+- Atria: Updated streaming player integration (Adding: Zoom, Mux, Twitch?)
 
 ## Upcoming
 
@@ -28,6 +27,8 @@ A real event platform built by someone who actually ran events. After years of f
 
 ## Recently Completed
 
+- Atria: Systematic refactoring and ESLint compliance to eliminate code smells and enhance maintainability
+- Atria: User facing Docs, Blog/Release Notes, API reference (in preparation for a 0.1.0 release along with a more standardized release schedule)
 - Atria: Kubernetes hosted Dev stack for 1:1 testing before pushing to production
 - Atria: Prepare for scalability via query efficiency, connection pooling, and Redis implementation
 - DevOps: CI/CD pipelines: Automated testing (Backend)
