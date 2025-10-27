@@ -6,7 +6,13 @@ Full-stack developer passionate about building elegant solutions to complex prob
 
 A real event platform built by someone who actually ran events. After years of fighting with bloated event software that charged per feature and held data hostage, I built what I wished existed - a platform that respects both organizers and their communities. Self-host it and create your own branded event ecosystem (perfect for streamers, companies, or anyone wanting their own space), or use the cloud version to tap into cross-organization networking. It's completely open source because I believe nonprofits shouldn't have to choose between good tools and their budget, and organizations shouldn't need a vendor's permission to access their own data. Whether you're running a 10-person meetup or a thousand-person conference, Atria adapts to what you actually need - not what some pricing tier dictates. No feature bloat, no vendor lock-in, no surprises. Just a solid platform that puts your event first and gives you the freedom to run it your way.
 
-[![Live Demo](https://img.shields.io/badge/Demo-atria.gg-8b5cf6)](https://atria.gg)
+![Version](https://img.shields.io/github/v/release/thesubtleties/atria)
+
+[![Live Demo](https://img.shields.io/badge/demo-atria.gg-6366f1)](https://atria.gg) 
+
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](LICENSE) 
+
+[![Documentation](https://img.shields.io/badge/docs-docs.atria.gg-34d399)](https://docs.atria.gg)
 
 [![GitHub](https://img.shields.io/badge/Source-GitHub-black)](https://github.com/thesubtleties/atria)
 
