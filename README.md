@@ -19,7 +19,6 @@ A real event platform built by someone who actually ran events. After years of f
 ## Currently Focusing On
 
 - DS&A Practice: Working through Grind 75 for technical interview preparation
-- Atria: Updated streaming player integration (Adding: Zoom, Mux, Twitch?)
 
 ## Upcoming
 
@@ -27,12 +26,13 @@ A real event platform built by someone who actually ran events. After years of f
 - Atria: Adding Redis cache strategy to reduce database load and improve API response times
 - AWS/GCP Cloud Services: Expanding beyond self-hosted infrastructure to cloud-native solutions
 - GraphQL & Apollo: Building more efficient APIs with better client-server communication
-- Testing Strategies: TDD on future Atria features
 - Data Engineering & ETL: Building robust pipelines to normalize messy third-party API data into clean, actionable datasets
 - TypeScript Mastery: Building upcoming projects with goal of 100% type safety
 
 ## Recently Completed
 
+- Testing Strategies: TDD on future Atria features
+- Atria: Updated streaming player integration (Zoom, Mux - signed and public, Vimeo)
 - Atria: Systematic refactoring and ESLint compliance to eliminate code smells and enhance maintainability
 - Atria: User facing Docs, Blog/Release Notes, API reference (in preparation for a 0.1.0 release along with a more standardized release schedule)
 - Atria: Kubernetes hosted Dev stack for 1:1 testing before pushing to production
