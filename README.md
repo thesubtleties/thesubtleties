@@ -31,6 +31,7 @@ A real event platform built by someone who actually ran events. After years of f
 
 ## Recently Completed
 
+- Atria: Updated streaming player integration (Jitsi as a Service, "Other" - external link)
 - Testing Strategies: TDD on future Atria features
 - Atria: Updated streaming player integration (Zoom, Mux - signed and public, Vimeo)
 - Atria: Systematic refactoring and ESLint compliance to eliminate code smells and enhance maintainability
