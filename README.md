@@ -90,7 +90,7 @@ A real event platform built by someone who actually ran events. After years of f
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesubtleties&show_icons=true&theme=dark&hide_rank=true)
+![GitHub stats](./profile/stats.svg)
 
 ## Let's Connect
 
