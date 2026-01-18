@@ -18,6 +18,8 @@ A real event platform built by someone who actually ran events. After years of f
 
 ## Currently Focusing On
 
+- Atria: Communities feature - designing architecture for persistent community spaces with live streaming, chat, and shareable profile links
+- [sbtlTV](https://github.com/thesubtleties/sbtlTV): Electron-based IPTV player with integrated EPG
 - DS&A Practice: Working through Grind 75 for technical interview preparation
 
 ## Upcoming
